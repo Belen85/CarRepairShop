@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{7C572715-3E09-4CC6-8B94-C55A3CE3CDEF}|Default">
+  <MonoDevelop.Ide.ItemProperties.09092020__Garage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="09092020_Garage/Models/Facture.cs">
+    <Files>
+      <File FileName="09092020_Garage/Program.cs" Line="95" Column="1" />
+      <File FileName="09092020_Garage/Models/Personne.cs" />
+      <File FileName="09092020_Garage/Models/Vehicule.cs" />
+      <File FileName="09092020_Garage/Models/Reparation.cs" />
+      <File FileName="09092020_Garage/Models/Facture.cs" Line="77" Column="14" />
+      <File FileName="09092020_Garage/Models/Camion.cs" />
+      <File FileName="09092020_Garage/Models/Voiture.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="09092020_Garage" expanded="True">
+            <Node name="09092020_Garage" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Facture.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
